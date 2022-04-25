@@ -1,2 +1,2 @@
 # drawings
-Several type of drawings using CSS
+Several types of drawings using CSS
